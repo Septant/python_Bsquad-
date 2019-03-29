@@ -9,6 +9,10 @@ https://code.tutsplus.com/ru/tutorials/creating-a-web-app-from-scratch-using-pyt
 
 Таблица со стеком: https://docs.google.com/spreadsheets/d/1vFAPmIPohA0zxv-2XAREIfgwc_bjc5JclWKdu1OnARE/edit?usp=sharing
 
+ШАГ 0 
+Проверяем совместимость Pygame & flask
+
+ШАГ 1
 На питоне пишем саму игру.
 
 ШАГ 2
@@ -19,4 +23,6 @@ https://code.tutsplus.com/ru/tutorials/creating-a-web-app-from-scratch-using-pyt
 
 Шаг 4 
 Монетизация(lol?)
-
+Задание.
+Проверить совместимость Pygame и Flask
+Хорошо если найдется алгоритм такой интеграции(!!!)
