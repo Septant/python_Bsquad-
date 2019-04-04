@@ -1,4 +1,4 @@
-Идея: 
+[Жанр игры](https://docs.google.com/document/d/18OvIB4s5qNMmKSf8qovNqiFF_eXYgvOf5EPVgvP6umc/edit?usp=sharing)
 
 [Таблица со стеком](https://docs.google.com/spreadsheets/d/1vFAPmIPohA0zxv-2XAREIfgwc_bjc5JclWKdu1OnARE/edit?usp=sharing)
 
