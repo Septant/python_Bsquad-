@@ -1,3 +1,4 @@
+Идея: 
 
 [Таблица со стеком](https://docs.google.com/spreadsheets/d/1vFAPmIPohA0zxv-2XAREIfgwc_bjc5JclWKdu1OnARE/edit?usp=sharing)
 
