@@ -7,6 +7,6 @@
 
 Елизавета: [vk](https://vk.com/id182093565), vasilevskayaliz@gmail.com
 
-Марк [vk](https://vk.com/mark_47), mark472013316@gmail.com)
+Марк [vk](https://vk.com/mark_47), mark472013316@gmail.com
 
 Степан [vk](https://vk.com/septant)
