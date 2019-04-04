@@ -12,4 +12,4 @@
 
 Марк [vk](https://vk.com/mark_47), mark472013316@gmail.com
 
-Степан [vk](https://vk.com/septant)
+Степан [vk](https://vk.com/septant), st069616@student.spbu.ru
