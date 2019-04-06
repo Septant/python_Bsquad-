@@ -2,6 +2,8 @@
 
 [Сюжет игры](https://docs.google.com/document/d/1pVaB2-11lV6nagSRdcDYl8BgR_Df2tpG9LpbtsFYOBQ/edit?usp=sharing)
 
+[Документация](https://docs.google.com/spreadsheets/d/1BXpIVjlseCAu-3PpD3JYqtBxQI2vTzlCa51q1z5s0hc/edit?usp=sharing)
+
 [Таблица со стеком](https://docs.google.com/spreadsheets/d/1vFAPmIPohA0zxv-2XAREIfgwc_bjc5JclWKdu1OnARE/edit?usp=sharing)
 
 ![](https://cdn1.savepice.ru/uploads/2019/4/5/706f32d84fbe34917a61d6c69ee70a49-full.jpg)
